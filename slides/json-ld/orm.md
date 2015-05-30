@@ -1,1 +1,1 @@
-![jsonld vs orm](img/jsonld-orm.png)
+[![jsonld vs orm](img/jsonld-orm.png)](https://twitter.com/manusporny/status/478741625699459072)
