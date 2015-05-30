@@ -1,8 +1,8 @@
 [
     "index.md",
-    "json-ld/orm.html",
     "disease.md",
     "cure.md",
+    "rweb.md",
     [
         "cs.md",
         "examples/example1.md",
@@ -20,5 +20,20 @@
         "linq/groups.md",
         "sparql/groups.md"
     ],
-    "costs.md"
+    "costs.md",
+    "json-ld.md",
+    [
+        "json-ld/orm.md",
+        "json-ld/why.md",
+        "json-ld/why2.md",
+        "json-ld/idea.md",
+        "json-ld/idea2.md",
+        "json-ld/idea3.md"
+    ],
+    [
+        "json-ld/examples/data.md",
+        "json-ld/examples/code.md"
+    ],
+    "json-ld/summary.md",
+    "summary.md"
 ]
