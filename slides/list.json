@@ -25,6 +25,11 @@
         "json-ld/orm.md",
         "json-ld/why.md",
         "json-ld/why2.md",
-        "json-ld/idea.md"
+        "json-ld/idea.md",
+        "json-ld/idea2.md",
+        "json-ld/idea3.md"
+    ],
+    [
+        "json-ld/examples/data.md"
     ]
 ]
