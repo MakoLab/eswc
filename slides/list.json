@@ -30,6 +30,7 @@
         "json-ld/idea3.md"
     ],
     [
-        "json-ld/examples/data.md"
+        "json-ld/examples/data.md",
+        "json-ld/examples/code.md"
     ]
 ]
