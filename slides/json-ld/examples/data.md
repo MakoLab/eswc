@@ -9,7 +9,7 @@
   "@id": "http://t-code.pl/#tomasz",
   "@type": "Person",
   "name": "Tomasz",
-  "lastName": "Pluskiewicz"
+  "lastName": { "@value": "Pluskiewicz" }
 }
 ```
 
