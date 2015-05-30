@@ -2,6 +2,7 @@
     "index.md",
     "disease.md",
     "cure.md",
+    "rweb.md",
     [
         "cs.md",
         "examples/example1.md",
@@ -18,9 +19,10 @@
         "sparql/atoms.md",
         "linq/groups.md",
         "sparql/groups.md"
-    ]
-    "json-ld/orm.md",
+    ],
+    "json-ld.md",
     [
+        "json-ld/orm.md",
         "json-ld/idea.md"
     ]
 ]
