@@ -19,5 +19,6 @@
         "sparql/atoms.md",
         "linq/groups.md",
         "sparql/groups.md"
-    ]
+    ],
+    "costs.md"
 ]
