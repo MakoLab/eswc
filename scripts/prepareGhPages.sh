@@ -1,7 +1,7 @@
 #!/bin/bash -x
 
 rm -rf dist
-git clone https://github.com/MakoLab/eswc2015.git dist
+git clone https://github.com/MakoLab/eswc.git dist
 cd dist
 git checkout gh-pages
 find . -maxdepth 1 -not -name 'README.md' -not -path '*/\.*' | xargs rm -rf
