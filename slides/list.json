@@ -23,6 +23,7 @@
     "json-ld.md",
     [
         "json-ld/orm.md",
+        "json-ld/why.md",
         "json-ld/idea.md"
     ]
 ]
