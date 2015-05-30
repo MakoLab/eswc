@@ -1,4 +1,23 @@
 [
     "index.md",
-    "json-ld/orm.html"
+    "json-ld/orm.html",
+    "disease.md",
+    "cure.md",
+    [
+        "cs.md",
+        "examples/example1.md",
+        "examples/example2.md",
+        "examples/example2.md"
+    ],
+    [
+        "csharp/imolecularsystem.md",
+        "csharp/imolecule.md",
+        "csharp/iatom.md"
+    ],
+    [
+        "linq/atoms.md",
+        "sparql/atoms.md",
+        "linq/groups.md",
+        "sparql/groups.md"
+    ]
 ]
