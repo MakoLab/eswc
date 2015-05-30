@@ -1,4 +1,7 @@
 [
     "index.md",
-    "json-ld/orm.md"
+    "json-ld/orm.md",
+    [
+        "json-ld/idea.md"
+    ]
 ]
