@@ -1,0 +1,1 @@
+![jsonld vs orm](img/jsonld-orm.png)
