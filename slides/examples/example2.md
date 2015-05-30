@@ -1,4 +1,4 @@
-```turtle
+``` turtle
 </pub/smith-20150320174958/> a gc:ComputationalChemistryPublication ;
     rdfs:label "Publication" ;
     dc:creator [ a dc:Agent ;
@@ -25,3 +25,4 @@
         rdfs:label "Visibility" ;
         gc:stringValue "n/a" ] ;
     rdfs:comment "This is publication of computational chemistry result." .
+```
