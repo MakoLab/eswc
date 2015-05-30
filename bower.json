@@ -1,7 +1,0 @@
-{
-  "name": "eswc2015-rdf-oop",
-  "version": "0.1.0",
-  "dependencies": {
-    "reveal.js": "~2.6.1"
-  }
-}
