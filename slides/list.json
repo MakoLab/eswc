@@ -20,6 +20,7 @@
         "linq/groups.md",
         "sparql/groups.md"
     ],
+    "costs.md",
     "json-ld.md",
     [
         "json-ld/orm.md",
