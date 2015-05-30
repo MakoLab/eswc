@@ -33,5 +33,6 @@
         "json-ld/examples/data.md",
         "json-ld/examples/code.md"
     ],
-    "json-ld/summary.md"
+    "json-ld/summary.md",
+    "summary.md"
 ]
